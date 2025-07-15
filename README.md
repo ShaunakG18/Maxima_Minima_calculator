@@ -33,4 +33,24 @@ You can download the compiled Windows version from the link below and start usin
 ---
 
 ## 📁 Project Structure
+## 📄 License
 
+This project is open-source under the **MIT License**.  
+Feel free to use, modify, and distribute it with proper credit.
+
+---
+
+## 🙋 Author
+
+Made by **Shaunak G**  
+🔗 [GitHub Profile](https://github.com/ShaunakG18)
+
+---
+
+## 💡 Future Plans
+
+- 🧠 Symbolic simplification and expression validation  
+- 📊 Visual plots for function surfaces and critical points  
+- 💻 Linux-compatible executable build
+
+---
